@@ -43,3 +43,9 @@ function contarOvejas(ovejas) {
   );
 }
 ```
+
+## Referencias
+
+| Command | Source |
+| --- | --- |
+| `Organizar la información en tablas` | [docs.github.com](https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) |
