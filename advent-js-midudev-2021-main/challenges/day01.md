@@ -48,4 +48,6 @@ function contarOvejas(ovejas) {
 
 | Command | Source |
 | --- | --- |
-| `Organizar la información en tablas` | [docs.github.com](https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) |
+| Organizar la información en tablas | [docs.github.com](https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) |
+| Expresiones regulares | [developer.mozilla.org](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Regular_Expressions) |
+| --- | [w3schools.com](https://www.w3schools.com/js/js_regexp.asp) |
