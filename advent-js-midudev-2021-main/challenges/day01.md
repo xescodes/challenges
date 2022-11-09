@@ -50,4 +50,7 @@ function contarOvejas(ovejas) {
 | --- | --- |
 | Organizar la información en tablas | [docs.github.com](https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) |
 | Expresiones regulares | [developer.mozilla.org](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Regular_Expressions) |
-| --- | [w3schools.com](https://www.w3schools.com/js/js_regexp.asp) |
+| | [w3schools.com](https://www.w3schools.com/js/js_regexp.asp) |
+| | [eloquentjavascript.net](https://www.w3schools.com/js/js_regexp.asp](https://eloquentjavascript.net/09_regexp.html) |
+| | [regxr](https://regexr.com) |
+| | [How to Use Regular Expressions in JavaScript – Tutorial for Beginners](https://www.w3schools.com/js/js_regexp.asp](https://www.freecodecamp.org/news/regular-expressions-for-beginners) |
